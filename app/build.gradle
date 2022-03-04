@@ -54,6 +54,9 @@ dependencies {
     //CarouselView
     implementation 'com.synnapps:carouselview:0.1.5'
 
+    //alertDialog
+    implementation 'com.github.f0ris.sweetalert:library:1.5.6'
+
 
 
 
