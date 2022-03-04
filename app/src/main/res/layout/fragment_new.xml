@@ -118,7 +118,8 @@
         android:textSize="17sp"
         android:textColor="@color/black"
         android:layout_marginTop="10dp"
-        android:text="Кредит до 15000 сом выдается моментально и не требует посещения  офиса МФК Элет Капитал"
+        android:text="Кредит до 15000 сом выдается моментально и не требует
+   посещения офиса МФК Элет Капитал"
         />
 
 
